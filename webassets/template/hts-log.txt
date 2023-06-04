@@ -1,0 +1,53 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 22 Nov 2021 13:41:48 at http://kodeforest.net/html/uoe/# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://kodeforest.net/html/uoe/# -O1 "C:\Users\online.alif\Desktop\website\template" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/about-us.html (from kodeforest.net/html/uoe/)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/css/grabbing.png (from kodeforest.net/html/uoe/css/owl.carousel.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/css/AjaxLoader.gif (from kodeforest.net/html/uoe/css/owl.carousel.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/default/sprite.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/default/sprite_x.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/default/sprite_y.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/default/sprite_next.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/default/sprite_prev.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/default/default_thumb.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/default/loader.gif (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/light_rounded/sprite.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/light_rounded/btnNext.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/light_rounded/btnPrevious.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/dark_rounded/sprite.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/dark_rounded/contentPattern.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/dark_rounded/btnNext.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/dark_rounded/btnPrevious.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/dark_rounded/loader.gif (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/dark_square/loader.gif (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/dark_square/sprite.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/dark_square/btnNext.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/dark_square/btnPrevious.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/light_square/sprite.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/light_square/btnNext.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/light_square/btnPrevious.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/facebook/sprite.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/facebook/contentPatternTop.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/facebook/contentPatternLeft.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/facebook/contentPatternRight.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/facebook/loader.gif (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/facebook/btnNext.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/facebook/btnPrevious.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/facebook/contentPatternBottom.png (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/facebook/default_thumbnail.gif (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:09	Error: 	"Not Found" (404) at link kodeforest.net/html/uoe/images/prettyPhoto/light_rounded/loader.gif (from kodeforest.net/html/uoe/css/prettyPhoto.css)
+13:52:10	Error: 	"Not Found" (404) at link kodeforest.net/html/images/signin.png (from kodeforest.net/html/uoe/style.css)
+13:52:10	Error: 	"Not Found" (404) at link kodeforest.net/html/images/register.png (from kodeforest.net/html/uoe/style.css)
+13:52:10	Error: 	"Not Found" (404) at link kodeforest.net/html/images/company.png (from kodeforest.net/html/uoe/style.css)
+13:52:10	Error: 	"Not Found" (404) at link kodeforest.net/html/images/e-mail.png (from kodeforest.net/html/uoe/style.css)
+13:52:10	Error: 	"Not Found" (404) at link kodeforest.net/html/images/location.png (from kodeforest.net/html/uoe/style.css)
+13:52:10	Error: 	"Not Found" (404) at link kodeforest.net/html/images/destination.png (from kodeforest.net/html/uoe/style.css)
+13:52:10	Warning: 	Retry after error -4 (No data (connection closed)) at link kodeforest.net/html/uoe/extra-images/404_thumb.jpg (from kodeforest.net/html/uoe/404.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 27 seconds : 285 links scanned, 242 files written (15812676 bytes overall) [15893725 bytes received at 25348 bytes/sec], 2.2 requests per connection
+(41 errors, 1 warnings, 0 messages)

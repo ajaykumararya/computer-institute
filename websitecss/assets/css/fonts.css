@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'texgyreadventorbold';
+    src: url('../fonts/texgyreadventor-bold-webfont.html') format('woff2'),
+         url('../fonts/texgyreadventor-bold-webfont-2.html') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'texgyreadventorregular';
+    src: url('../fonts/texgyreadventor-regular-webfont.html') format('woff2'),
+         url('../fonts/texgyreadventor-regular-webfont-2.html') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
