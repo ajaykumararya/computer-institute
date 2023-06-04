@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-
+require FCPATH.'config.php';
 /*
 | -------------------------------------------------------------------
 | DATABASE CONNECTIVITY SETTINGS
@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'aaradhyashikshaf_main',
-	'password' => 'o{y{i^]P^k9{',
-	'database' => 'aaradhyashikshaf_main',
+	'hostname' => db_host,
+	'username' => db_username,
+	'password' => db_password,
+	'database' => db_name,
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

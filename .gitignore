@@ -1,4 +1,4 @@
-*/config/development
+# */config/development
 */logs/log-*.php
 !*/logs/index.html
 */cache/*
@@ -12,7 +12,9 @@ user_guide_src/cilexer/dist/*
 user_guide_src/cilexer/pycilexer.egg-info/*
 
 #codeigniter 3
+application/config/database.php
 application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 /vendor/
+/temp
